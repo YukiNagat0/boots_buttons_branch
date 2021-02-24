@@ -1,3 +1,12 @@
 На самом деле, если смотреть по логу в PyCharm, то они не очень похожи.
 Но если смотреть по Merge'ам, то, вроде, похожи.
 В общем, надеюсь, что все правильно сделал :D.
+
+New (пункт 4):
+    Сначала идут 6 коммитов от лицея
+    7) Merge remote-tracking branch 'origin/boots' into boots_buttons
+    8) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    9) Merge remote-tracking branch 'origin/hat'
+    10) Merge branch 'boots_buttons'
+    11) Add hometask.txt
+    [12]) Edit hometask.txt
